@@ -1,3 +1,3 @@
 ## Wifi Password
 
-## -Only shows saved wifi passwords. *Windows
+## -It only shows the previously entered Wi-Fi passwords on Windows.
